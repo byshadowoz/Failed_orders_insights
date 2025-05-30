@@ -1,0 +1,11 @@
+name: orders_env
+channels:
+  - defaults
+dependencies:
+  - ipykernel
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - plotly
+  - scikit-learn
